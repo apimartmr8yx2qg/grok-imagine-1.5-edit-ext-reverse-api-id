@@ -1,0 +1,20 @@
+{
+  "repo": "grok-imagine-1.5-edit-ext-reverse-api-id",
+  "model": "grok-imagine-1.5-edit-apimart",
+  "display": "Grok Imagine 1.5 Edit Ext",
+  "route": "reverse",
+  "variant": "grok-imagine-1.5-edit-ext",
+  "snapshot": "2026-09-28",
+  "unit": "usd_per_image",
+  "tiers": {
+    "1K": 0.015
+  },
+  "variants": {
+    "default": [
+      "1K"
+    ]
+  },
+  "official_counterpart": "grok-imagine-image (edit)",
+  "effective_note": "official route billed at ×0.8 group ratio; reverse route is flat per unit",
+  "source": "https://go.apimart.ai/k-4bdb8b"
+}
